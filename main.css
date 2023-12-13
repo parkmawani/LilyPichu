@@ -480,7 +480,7 @@
   }
 }
 :root .membersWrap__90226::before {
-  content: "Member list";
+  content: "멤버 리스트";
   position: absolute;
   top: -60px;
   z-index: 1;
