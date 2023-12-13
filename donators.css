@@ -49,6 +49,7 @@
   pointer-events: none;
 }
 
+.avatarWrapper_f77579:has(img[src*="318031021847216129"]) ~ div.profileBadges__7a7cb,
 .avatarWrapper_f77579:has(img[src*="193188089756123136"]) .avatarWrapper_f77579:has(img[src*="596812194906374167"]) ~ div.profileBadges__7a7cb,
 .avatarWrapper_f77579:has(img[src*="281376608038813696"]) ~ div.profileBadges__7a7cb,
 .avatarWrapper_f77579:has(img[src*="269939624401436672"]) ~ div.profileBadges__7a7cb,
@@ -82,6 +83,7 @@
   padding-right: 40px;
 }
 .avatarWrapper_f77579:has(img[src*="193188089756123136"]) .avatarWrapper_f77579:has(img[src*="596812194906374167"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="318031021847216129"]) ~ div.profileBadges__7a7cb > :last-child,
 .avatarWrapper_f77579:has(img[src*="281376608038813696"]) ~ div.profileBadges__7a7cb > :last-child,
 .avatarWrapper_f77579:has(img[src*="269939624401436672"]) ~ div.profileBadges__7a7cb > :last-child,
 .avatarWrapper_f77579:has(img[src*="272440514400354305"]) ~ div.profileBadges__7a7cb > :last-child,
@@ -114,6 +116,7 @@
   position: relative;
 }
 .avatarWrapper_f77579:has(img[src*="193188089756123136"]) .avatarWrapper_f77579:has(img[src*="596812194906374167"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="318031021847216129"]) ~ div.profileBadges__7a7cb > :last-child::after,
 .avatarWrapper_f77579:has(img[src*="281376608038813696"]) ~ div.profileBadges__7a7cb > :last-child::after,
 .avatarWrapper_f77579:has(img[src*="269939624401436672"]) ~ div.profileBadges__7a7cb > :last-child::after,
 .avatarWrapper_f77579:has(img[src*="272440514400354305"]) ~ div.profileBadges__7a7cb > :last-child::after,
@@ -154,6 +157,7 @@
   border-radius: 0 5px 0 0;
 }
 .avatarWrapper_f77579:has(img[src*="193188089756123136"]) .avatarWrapper_f77579:has(img[src*="596812194906374167"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="318031021847216129"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
 .avatarWrapper_f77579:has(img[src*="281376608038813696"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
 .avatarWrapper_f77579:has(img[src*="269939624401436672"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
 .avatarWrapper_f77579:has(img[src*="272440514400354305"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
@@ -198,6 +202,7 @@
   border-radius: 8px;
 }
 
+.header__7da4f:has(img[src*="318031021847216129"]) .headerTop__6628b > div.badgeList_c193e3,
 .header__7da4f:has(img[src*="193188089756123136"]) .headerTop__6628b > div.badgeList_c193e3,
 .header__7da4f:has(img[src*="596812194906374167"]) .headerTop__6628b > div.badgeList_c193e3,
 .header__7da4f:has(img[src*="281376608038813696"]) .headerTop__6628b > div.badgeList_c193e3,
@@ -231,6 +236,7 @@
 .header__7da4f:has(img[src*="471112338099929100"]) .headerTop__6628b > div.badgeList_c193e3 {
   padding-right: 40px;
 }
+.header__7da4f:has(img[src*="318031021847216129"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
 .header__7da4f:has(img[src*="193188089756123136"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
 .header__7da4f:has(img[src*="596812194906374167"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
 .header__7da4f:has(img[src*="281376608038813696"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
@@ -264,6 +270,7 @@
 .header__7da4f:has(img[src*="471112338099929100"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child {
   position: relative;
 }
+.header__7da4f:has(img[src*="318031021847216129"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
 .header__7da4f:has(img[src*="193188089756123136"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
 .header__7da4f:has(img[src*="596812194906374167"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
 .header__7da4f:has(img[src*="281376608038813696"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
